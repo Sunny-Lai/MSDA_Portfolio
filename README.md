@@ -1,9 +1,9 @@
 # MSDA_Portfolio
 This is a collection of my favorite projects I have completed during my coursework towards a Masters of Science in Data Analytics at Western Governors University.
 ## Table of Contents
-- [KNN Classification Project](#knn-classification-project)
-- [Market Basket Analysis Project](#market-basket-analysis-project)
-- [Recurrent Neural Network Project](#recurrent-neural-network-project)
+- [KNN Classification Project](#knn-classification-project) : An Analysis of Patient Hospital Readmissions
+- [Revealing Medication Prescription Interrelations: A Market Basket Analysis](#Revealing-Medication-Prescription-Interrelations:-A-Market-Basket-Analysis)
+- [Recurrent Neural Network Project](#recurrent-neural-network-project) : A Sentiment Analysis using Natural Language Processing
 ## [KNN Classification Project](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/KNN_Classification)
 #### Objective
 The goal of this analysis is to utilize k-nearest neighbors (KNN) to identify what factors most significantly relate to patients within a medical database being readmitted within 30 days. The variables that will be analyzed are within a dataset provided by the University.
@@ -23,7 +23,7 @@ The goal of this analysis is to utilize k-nearest neighbors (KNN) to identify wh
 - Classification model, Confusion Matrix, and ROC Curve
 #### Results
 The accuracy scores that resulted provide confidence in our ROC KNN classification model. With a precision score of 98 percent, the model shows it can accurately predict if a patient is readmitted within 30 days of discharge 98 percent of the time with the predictor variables provided. The accuracy scores that resulted from indicates this model as a strong classifier of data that can produce accurate resuts based on our input variables with confidence.
-## [Market Basket Analysis Project](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/Market_Basket_Analysis)
+## [Revealing Medication Prescription Interrelations: A Market Basket Analysis](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/Market_Basket_Analysis)
 #### Objective
 The goal of this analysis is to utilize market basket analysis to determine what medications are most correlated with the medication abilfy. A Medical Database of patient prescriptions provided by the university was utilized for this Analysis.  Creating a model that can determine medications that are commonly purchased together provides stakeholders with the ability to predict what medications patients may need and conduct further research for the cause of these correlations. 
 #### Technology Used
