@@ -8,7 +8,8 @@ This is a collection of my favorite projects I have completed during my coursewo
 #### Objective
 The goal of this analysis is to utilize k-nearest neighbors (KNN) to identify what factors most significantly relate to patients within a medical database being readmitted within 30 days. The variables that will be analyzed are within a dataset provided by the University.
 #### Technology Used
-- Python
+- Python (Pandas, Seaborm, Matplotlib, Numpy)
+    - SkLearn (KNeighborsClassifier, GridSearch, StandardScaler)
 - Jupyter Notebook
 #### Data Cleaning and Preparation
 - Importing Packages, Labraries and Dataset
