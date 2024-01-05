@@ -2,7 +2,7 @@
 A Portfolio of my projects towards completion in a Masters of Science in Data Analytics 
 
 
-## KNN Classification Project
+## [KNN Classification Project](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/KNN_Classification)
 ### Objective
 The goal of this analysis is to utilize k-nearest neighbors (KNN) to identify what factors most significantly relate to patients within a medical database being readmitted within 30 days. The variables that will be analyzed are within a dataset provided by the University.
 ### Technology Used
@@ -21,7 +21,7 @@ The goal of this analysis is to utilize k-nearest neighbors (KNN) to identify wh
 - Classification model, Confusion Matrix, and ROC Curve
 ### Results
 The accuracy scores that resulted provide confidence in our ROC KNN classification model. With a precision score of 98 percent, the model shows it can accurately predict if a patient is readmitted within 30 days of discharge 98 percent of the time with the predictor variables provided. The accuracy scores that resulted from indicates this model as a strong classifier of data that can produce accurate resuts based on our input variables with confidence.
-## Market Basket Analysis Project
+## [Market Basket Analysis Project](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/Market_Basket_Analysis)
 ### Objective
 The goal of this analysis is to utilize market basket analysis to determine what medications are most correlated with the medication abilfy. A Medical Database of patient prescriptions provided by the university was utilized for this Analysis.  Creating a model that can determine medications that are commonly purchased together provides stakeholders with the ability to predict what medications patients may need and conduct further research for the cause of these correlations. 
 ### Technology Used
@@ -41,7 +41,7 @@ The goal of this analysis is to utilize market basket analysis to determine what
 - Identified top three rules from association table based on these criteria.
 ### Results
 To answer our research question of determining the most correlated medications with Abilify, we need to further filter our analysis. To accomplish this, I filtered for the medication Abilify as either the antecedent or consequent and sorted by lift. I chose lift as the main sorting measurement as values of lift greater than one have an increased correlation. Evaluating the medication with the highest lift value in relationship to Abilify, we can see that the medication is metformin. The lift of this itemset is 1.91, indicating a high correlation that a person will purchase metformin in addition to abilify. The support of this itemset is 0.023, indicating the itemset frequency within this dataset is 2.3 percent. The confidence of this itemset is the proportion of prescriptions that include the itemset divided by the proportion of just the antecedent. Analyzing abilify as the antecedent and the consequent, the support is higher at 0.46, or 46 percent.
-## Recurrent Neural Network Project
+## [Recurrent Neural Network Project](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/Recurrent_Neural_Network)
 ### Objective
 The goal of this analysis is to utilize recurrent neural networking and natural language processing on a combined dataset of reviews from Amazon, IMDB, and Yelp to detect patterns and make predictions that provide actionable insight for stakeholders.
 ### Technology Used
