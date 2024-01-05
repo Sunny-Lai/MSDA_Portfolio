@@ -1,4 +1,4 @@
-# MSDA_Portfolio
+# MSDA Portfolio
 This is a collection of my favorite projects I have completed during my coursework towards a Masters of Science in Data Analytics at Western Governors University.
 ## Table of Contents
 - [Forecasting Hospital Readmissions: A KNN Classification Analysis](#forecasting-hospital-readmissions-a-knn-classification-analysis)
