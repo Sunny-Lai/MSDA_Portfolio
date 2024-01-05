@@ -1,5 +1,5 @@
 # MSDA_Portfolio
-This is a collection of my favorite projects I have completed during my coursework in a Masters of Science in Data Analytics at Western Governors University.
+This is a collection of my favorite projects I have completed during my coursework towards a Masters of Science in Data Analytics at Western Governors University.
 ## Table of Contents
 - [KNN Classification Project](#knn-classification-project)
 - [Market Basket Analysis Project](#market-basket-analysis-project)
