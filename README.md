@@ -45,7 +45,7 @@ To answer our research question of determining the most correlated medications w
 ### Objective
 The goal of this analysis is to utilize recurrent neural networking and natural language processing on a combined dataset of reviews from Amazon, IMDB, and Yelp to detect patterns and make predictions that provide actionable insight for stakeholders.
 ### Technology Used
--Python (Numpy, Matplotlib, Pandas, Seaborn)
+- Python (Numpy, Matplotlib, Pandas, Seaborn)
     - TensorFlow, NLTK, SkLearn, Keras
 - Jupyter Notebook
 ### Data Cleaning and Preparation
