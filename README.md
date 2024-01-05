@@ -1,10 +1,10 @@
 # MSDA_Portfolio
 This is a collection of my favorite projects I have completed during my coursework towards a Masters of Science in Data Analytics at Western Governors University.
 ## Table of Contents
-- [KNN Classification Project](#knn-classification-project) : An Analysis of Patient Hospital Readmissions
-- [Revealing Medication Prescription Interrelations: A Market Basket Analysis](#Revealing-Medication-Prescription-Interrelations:-A-Market-Basket-Analysis)
-- [Recurrent Neural Network Project](#recurrent-neural-network-project) : A Sentiment Analysis using Natural Language Processing
-## [KNN Classification Project](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/KNN_Classification)
+- [Forecasting Hospital Readmissions: A KNN Classification Analysis](#forecasting-hospital-readmissions-a-knn-classification-analysis)
+- [Revealing Medication Prescription Interrelations: A Market Basket Analysis](#revealing-medication-prescription-interrelations-a-market-basket-analysis)
+- [Unraveling Sentiment Patterns: A Recurrent Neural Network Analysis](#unraveling-sentiment-patterns-a-recurrent-neural-network-analysis)
+## [Forecasting Hospital Readmissions: A KNN Classification Analysis](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/KNN_Classification)
 #### Objective
 The goal of this analysis is to utilize k-nearest neighbors (KNN) to identify what factors most significantly relate to patients within a medical database being readmitted within 30 days. The variables that will be analyzed are within a dataset provided by the University.
 #### Technology Used
@@ -43,7 +43,7 @@ The goal of this analysis is to utilize market basket analysis to determine what
 - Identified top three rules from association table based on these criteria.
 #### Results
 To answer our research question of determining the most correlated medications with Abilify, we need to further filter our analysis. To accomplish this, I filtered for the medication Abilify as either the antecedent or consequent and sorted by lift. I chose lift as the main sorting measurement as values of lift greater than one have an increased correlation. Evaluating the medication with the highest lift value in relationship to Abilify, we can see that the medication is metformin. The lift of this itemset is 1.91, indicating a high correlation that a person will purchase metformin in addition to abilify. The support of this itemset is 0.023, indicating the itemset frequency within this dataset is 2.3 percent. The confidence of this itemset is the proportion of prescriptions that include the itemset divided by the proportion of just the antecedent. Analyzing abilify as the antecedent and the consequent, the support is higher at 0.46, or 46 percent.
-## [Recurrent Neural Network Project](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/Recurrent_Neural_Network)
+## [Unraveling Sentiment Patterns: A Recurrent Neural Network Analysis](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/Recurrent_Neural_Network)
 #### Objective
 The goal of this analysis is to utilize recurrent neural networking and natural language processing on a combined dataset of reviews from Amazon, IMDB, and Yelp to detect patterns and make predictions that provide actionable insight for stakeholders.
 #### Technology Used
