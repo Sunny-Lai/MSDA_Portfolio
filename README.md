@@ -1,7 +1,9 @@
 # MSDA_Portfolio
-A Portfolio of my projects towards completion in a Masters of Science in Data Analytics 
-
-
+A Portfolio of my projects towards completion in a Masters of Science in Data Analytics
+## Table of Contents
+- [KNN Classification Project](#knn-classification-project)
+- [Market Basket Analysis Project](#market-basket-analysis-project)
+- [Recurrent Neural Network Project](#recurrent-neural-network-project)
 ## [KNN Classification Project](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/KNN_Classification)
 #### Objective
 The goal of this analysis is to utilize k-nearest neighbors (KNN) to identify what factors most significantly relate to patients within a medical database being readmitted within 30 days. The variables that will be analyzed are within a dataset provided by the University.
